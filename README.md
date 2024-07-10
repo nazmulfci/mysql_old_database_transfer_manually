@@ -6,7 +6,7 @@
   <li> type this command " mysql -u root -p personal_blog < G:\personal_blog.sql" </li>
   <li> Lets enjoy........</li>
   <li> if face this problem : ERROR 1813 (HY000) at line 164704: Tablespace for table 'cashbook_live.stock_summeries' exists. Please DISCARD the tablespace before IMPORT </li>
-  <li> create a new database another name and try ageain. </li>
+  <li> create a new database another name and try ageain. from step 1 ..... </li>
 </ol>
 
 
