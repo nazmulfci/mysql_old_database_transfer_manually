@@ -20,3 +20,9 @@
   <li> stop php & mysql in xampp server </li>
   <li> Lets enjoy........</li>
 </ol>
+
+# How to get duplicate row in table
+SELECT email, COUNT(*) as count
+FROM users
+GROUP BY email
+HAVING COUNT(*) > 1;
